@@ -5,8 +5,8 @@ group = "IT-31"
 print(f"{name} {surname}, group {group} \n")
 
 
-c = len("Romaniuk")
-grades = [10, 9, 7, 9, 10, 8, 9, 9]
+c = len(surname)
+grades = [10, 9, 8, 9, 10, 8, 9, 9]
 
 print(f"Grades: {grades}")
 print(f"Number of grades: {len(grades)}")
